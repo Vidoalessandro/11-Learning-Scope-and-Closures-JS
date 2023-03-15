@@ -1,0 +1,20 @@
+{
+  "name": "11-Learning-Scope-and-Closures-JS",
+  "version": "1.0.0",
+  "description": "Using the different scopes that your variables have when they are declared in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidoalessandro/11-Learning-Scope-and-Closures-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidoalessandro/11-Learning-Scope-and-Closures-JS/issues"
+  },
+  "homepage": "https://github.com/Vidoalessandro/11-Learning-Scope-and-Closures-JS#readme"
+}
